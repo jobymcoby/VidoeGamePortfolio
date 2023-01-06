@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="libs">
+    <archive path="C:/Users/chris/IdeaProjects/DrexelCode/611_CS/Portfolio/S3/libs/jargs.jar" />
+    <archive path="C:/Users/chris/IdeaProjects/DrexelCode/611_CS/Portfolio/S3/libs/java-cup-11a-runtime.jar" />
+    <archive path="C:/Users/chris/IdeaProjects/DrexelCode/611_CS/Portfolio/S3/libs/xercesImpl.jar" />
+    <archive path="C:/Users/chris/IdeaProjects/DrexelCode/611_CS/Portfolio/S3/libs/jdom.jar" />
+  </library>
+</eclipse-userlibraries>
+
